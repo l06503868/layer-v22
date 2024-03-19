@@ -1,0 +1,28 @@
+{
+  "name": "layer-v22",
+  "version": "1.0.0",
+  "description": "Layer-v22 is a magical Node.js module for various string manipulations and file operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/l06503868/layer-v22"
+  },
+  "dependencies": {
+	  "layer-v11": "1.0.0",
+"anthonyjones-mode": "1.0.0",
+"sharonhall-config": "1.0.0",
+"ruththompson-tools": "1.0.0",
+"carolgonzalez-sw": "1.0.0",
+"vl75-comm": "1.0.0",
+    "axios": "^0.24.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l06503868/layer-v22/issues"
+  },
+  "homepage": "https://github.com/l06503868/layer-v22#readme"
+}
